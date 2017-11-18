@@ -1,0 +1,29 @@
+h1{
+	color: dodgerblue;
+	font-family: Castellar;
+}
+h2{
+	font-family: MV Boli;
+	color: slateblue;
+	letter-spacing: 5px;
+}
+p{
+	font-size: 24pt;
+}
+a{
+	color: white;
+	background-color: orange; 
+	font-size: 18pt;
+	text-decoration: none;
+}
+li:nth-child(odd){
+	background-color: dodgerblue;
+	}
+	li:nth-child(even){
+		background-color: orange;
+	}
+li{	font-size: 18pt;
+}
+#tx{
+	font-size: 18pt;
+}
